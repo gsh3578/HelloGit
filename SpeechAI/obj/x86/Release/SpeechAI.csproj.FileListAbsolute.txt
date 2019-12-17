@@ -1,0 +1,16 @@
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\input.xml
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\DLL\Microsoft.Speech.dll
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\speechBox.xml
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\SpeechAI.exe.config
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\SpeechAI.exe
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\SpeechAI.pdb
+C:\작업공간\학습공간\음성인식\SpeechAI\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.SpeechAI.resources
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.MediaPlayer.MP3Player.resources
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.MediaPlayer.Notepad.resources
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.PhotoMain.resources
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.PhotoAnalysis.resources
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.Properties.Resources.resources
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.csproj.GenerateResource.Cache
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.exe
+C:\작업공간\학습공간\음성인식\SpeechAI\obj\x86\Release\SpeechAI.pdb

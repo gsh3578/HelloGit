@@ -1,0 +1,24 @@
+﻿<grammar version="1.0" sapi:alphabet="x-microsoft-ups" xml:lang="ko-KR" root="Command"
+         tag-format="semantics-ms/1.0" xmlns="http://www.w3.org/2001/06/grammar"
+         xmlns:sapi="http://schemas.microsoft.com/Speech/2002/06/SRGSExtensions">
+  <rule id="Command" scope="public">
+    <one-of>
+      <item>밍밍</item>
+      <item>안녕</item>
+      <item>종료</item>
+      <item>계산기</item>
+      <item>메모장</item>
+      <item>콘솔</item>
+      <item>그림판</item>
+      <item>계산기 닫기</item>
+      <item>음악</item>
+      <item>음악종료</item>
+      <item>이미지분석</item>
+      <item>이미지분석종료</item>
+      <item>지금몇시야</item>
+      <item>오늘날짜</item>
+      <item>날씨</item>
+      
+    </one-of>
+  </rule>
+</grammar>
